@@ -4,6 +4,12 @@ O projeto Contribuição do Museu de Zoologia da USP à implementação do [SIBB
 ## A importância das coleções biológicas
 Os membros desse projeto têm a responsabilidade de capturar os dados biológicos que acompanham os exemplares do acervo das coleções entomológicas do MZUSP e armazená-los em um banco de dados. Os bolsistas devem inserir informações de qualidade no banco de dados, de forma a garantir a sua confiabilidade científica. Além disso, entre o material cadastrado, encontram-se inúmeros exemplares-tipo, que carregam consigo permanentemente nomes científicos. Por isso o tratamento desse material é feito de maneira extremamente cuidadosa.
 
+# A interface do banco de dados
+O programa que gerencia os dados originados a partir da digitalização dos espécimes é o [Specify](http://specifyx.specifysoftware.org/welcome-to-specify-6-desktop-application/). Atualmente usamos a versão 6, que não deve ser atualizada até o fim do projeto. Portanto, se, ao fazer login no sistema, o Specify informar que há uma nova atualização, por favor ignore esse alerta e continue normalmente com o seu trabalho.
+
+## Dúvidas sobre o Specify
+Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentation/) ou os [vídeos de ajuda](http://specifyx.specifysoftware.org/specify-project-helpcasts/) do Specify 6 para sanar a maioria das dúvidas encontradas na utilização do programa.
+
 # Protocolo de digitalização dos espécimes
 1. Separar material a ser trabalhado.
 2. Preparar as etiquetas de número de tombo, que serão adicionadas ao exemplar digitalizado. Usar a planilha para fazer novas etiquetas. 
