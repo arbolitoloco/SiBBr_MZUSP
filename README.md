@@ -3,7 +3,6 @@ O projeto Contribuição do Museu de Zoologia da USP à implementação do [SIBB
 
 ## A importância das coleções biológicas
 Os membros desse projeto têm a responsabilidade de capturar os dados biológicos que acompanham os exemplares do acervo das coleções entomológicas do MZUSP e armazená-los em um banco de dados. Os bolsistas devem inserir informações de qualidade no banco de dados, de forma a garantir a sua confiabilidade científica. Além disso, entre o material cadastrado, encontram-se inúmeros exemplares-tipo, que carregam consigo permanentemente nomes científicos. Por isso o tratamento desse material é feito de maneira extremamente cuidadosa.
---------------------
 
 # Protocolo de digitalização dos espécimes
 1. Separar material a ser trabalhado.
@@ -15,7 +14,7 @@ Os membros desse projeto têm a responsabilidade de capturar os dados biológico
 7. Fazer upload das imagens da câmera/celular para o computador. Renomear as imagens de acordo com o número de tombo de cada uma. Utilizar o software XnView para facilitar essa etapa (tutorial de uso no documento).
 8. Usar as imagens das etiquetas e as anotações para dar entrada na planilha de dados.
 9. Ao acumular um número razoável de exemplares tombados (a partir de 500 exemplares, por exemplo), fazer o upload da planilha para o Specify (tutorial de uso no documento).
----------------------
+
 
 # Outras informações
 
@@ -25,11 +24,7 @@ Os membros desse projeto têm a responsabilidade de capturar os dados biológico
 
 ## Arquivos modelo
 
--------------------
-
 # Catálogos e informações taxonômicas online
-
-------------------
 
 # Dúvidas comuns
 
