@@ -31,9 +31,33 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 ## Explicação para campos de planilha de cada coleção
 
 ## Arquivos modelo
+### Planilhas
+* [Coleoptera]()
+* [Coleoptera Imaturos]()
+* [Diptera]()
+* [Lepidoptera]()
+* [Orthoptera]()
+* [Trichoptera]()
+
+### Etiquetas
+* [Coleoptera]()
+* [Coleoptera Imaturos]()
+* [Diptera]()
+* [Lepidoptera]()
+* [Orthoptera]()
+* [Trichoptera]()
 <hr>
 
 # Catálogos e informações taxonômicas online
+### Gerais
+* [ITIS - Integrated Taxonomic Information System](http://www.itis.gov/)
+* [Catálogo Taxonômico da Fauna do Brasil](http://fauna.jbrj.gov.br/fauna/listaBrasil/ConsultaPublicaUC/ConsultaPublicaUC.do)
+* [Nomenclator Zoologicus - Rod Page](http://iphylo.org/~rpage/nz/index.php)
+* [Zoological Record](http://apps-webofknowledge.ez67.periodicos.capes.gov.br/ZOOREC_GeneralSearch_input.do?product=ZOOREC&SID=3D26X5MiNyYakccO6ZM&search_mode=GeneralSearch) - Obs.: Só funciona dentro da USP
+
+### Diptera
+* [Diptera Nomenclator](http://www.diptera.org/NomenclatorSearch.php)
+* [Orthoptera Species File Online](http://orthoptera.speciesfile.org/HomePage/Orthoptera/HomePage.aspx)
 <hr>
 
 # Dúvidas comuns
