@@ -31,6 +31,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 ## Explicação para campos de planilha de cada coleção
 
 ## Arquivos modelo
+
 ### Planilhas
 * [Coleoptera]()
 * [Coleoptera Imaturos]()
@@ -49,6 +50,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 <hr>
 
 # Catálogos e informações taxonômicas online
+
 ### Gerais
 * [ITIS - Integrated Taxonomic Information System](http://www.itis.gov/)
 * [Catálogo Taxonômico da Fauna do Brasil](http://fauna.jbrj.gov.br/fauna/listaBrasil/ConsultaPublicaUC/ConsultaPublicaUC.do)
