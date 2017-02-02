@@ -35,7 +35,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 ### Planilhas
 * [Coleoptera]()
 * [Coleoptera Imaturos]()
-* [Diptera](https://github.com/arbolitoloco/sibbr_mzusp/blob/master/modelos/LRP_Specify_modelo_Diptera.xlsx)
+* [Diptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/LRP_Specify_modelo_Diptera.xlsx)
 * [Lepidoptera]()
 * [Orthoptera]()
 * [Trichoptera]()
