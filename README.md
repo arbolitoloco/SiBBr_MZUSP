@@ -37,13 +37,13 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 * [Coleoptera Imaturos]()
 * [Diptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/LRP_Specify_modelo_Diptera.xlsx)
 * [Lepidoptera]()
-* [Orthoptera]()
-* [Trichoptera]()
+* [Orthoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/KMK_Modelo_Orthoptera.xls)
+* [Trichoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/KMK_Modelo_Trichoptera.xls)
 
 ### Etiquetas
 * [Coleoptera]()
 * [Coleoptera Imaturos]()
-* [Diptera]()
+* [Diptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/etiquetas_modelo_Diptera.doc)
 * [Lepidoptera]()
 * [Orthoptera]()
 * [Trichoptera]()
