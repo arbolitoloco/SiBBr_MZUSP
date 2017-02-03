@@ -34,8 +34,8 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 # Outras informações
 
 ## Tutoriais
-* [Como usar o XnView para renomear arquivos de imagem em lote](\xnview.html)
-* [Como fazer upload da planilha para o Specify](\specify.html)
+* [Como usar o XnView para renomear arquivos de imagem em lote](/xnview.html)
+* [Como fazer upload da planilha para o Specify](/specify.html)
 
 ## Explicação para campos de planilha de cada coleção
 
