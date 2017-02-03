@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Como usar o XnView para renomear arquivos de imagem em lote
 permalink: /xnview.html
 ---
