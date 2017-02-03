@@ -8,6 +8,7 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="anchor.js"></script>
+    <script src="dist/js/smooth-scroll.js"></script>
   </head>
   <body>
     <section class="page-header">
@@ -22,12 +23,12 @@
       {% endif %}
       <section class="header-subnav">
         <ul>
-          <li><a href="#o-projeto">Projeto</a></li>
-          <li><a href="#a-interface-do-banco-de-dados">Specify</a></li>
-          <li><a href="#protocolo-de-digitalizao-dos-espcimes">Protocolo</a></li>
-          <li><a href="#outras-informaes">Informações</a></li>
-          <li><a href="#catlogos-e-informaes-taxonmicas-online">Catálogos</a></li>
-          <li><a href="#dvidas-comuns">Dúvidas</a></li>
+          <li><a data-scroll href="#o-projeto">Projeto</a></li>
+          <li><a data-scroll href="#a-interface-do-banco-de-dados">Specify</a></li>
+          <li><a data-scroll href="#protocolo-de-digitalizao-dos-espcimes">Protocolo</a></li>
+          <li><a data-scroll href="#outras-informaes">Informações</a></li>
+          <li><a data-scroll href="#catlogos-e-informaes-taxonmicas-online">Catálogos</a></li>
+          <li><a data-scroll href="#dvidas-comuns">Dúvidas</a></li>
         </ul>
       </section>
     </section>
@@ -58,6 +59,11 @@
     <!-- Add anchors before the closing body tag. -->
     <script>
        anchors.add();
+    </script>
+    
+   <!--- Smooth Scroll -->
+    <script>
+       smoothScroll.init();
     </script>
   </body>
 </html>
