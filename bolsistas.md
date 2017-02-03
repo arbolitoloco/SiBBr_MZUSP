@@ -11,11 +11,11 @@ permalink: /bolsistas.html
 Coleção | Nome  | Tombo inicial
 ------------ | ------------- | -------------
 Blattodea | Carolina Cuezzo | ?
-Coleoptera | Débora Cristina de Oliveira Silva | ?
-Coleoptera | Fábio | ?
+Coleoptera | Débora Cristina de Oliveira Silva | 10001
+Coleoptera | Fábio Oliveira do Nascimento | 13001
 Coleoptera | Priscila Isabel Vicente | ?
-Diptera | Isabel | ?
-Diptera | Helayne | ?
+Diptera | Isabel Mosch | ?
+Diptera | Helainy Trabuco | ?
 Lepidoptera | ? | ?
 Mantodea | Carolina Cuezzo | ?
 Orthoptera | Fernanda Franco de Sousa | 5101
