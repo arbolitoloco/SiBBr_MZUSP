@@ -4,15 +4,9 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background-size: cover;
-  position: relative;
-  overflow: visible;
-  padding-top: 2.5rem;
-  padding-bottom: 4.9rem; }
+  background-size: cover; }
 
 .header-subnav {
-  float: none;
-  position: absolute;
   text-align: center;
   margin: 0 auto;
   bottom: 0;
