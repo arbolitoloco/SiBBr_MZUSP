@@ -22,7 +22,7 @@ XXXX_Genero_especie.jpg, onde XXXX deve ser substituído pelo número de tombo c
 2. Clicar em Ferramentas (Tools) ->  "Renomear em lote" (Batch Rename);
 3. Preencher o formulário que aparecerá com as seguintes opções:
    - [x] Nome do modelo
-   - ####
+   - \#\#\#\#
    - Iniciar: número de tombo inicial
    - Etapa: 1
    - Clicar em "Renomear"
