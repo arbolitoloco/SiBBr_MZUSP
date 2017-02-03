@@ -34,19 +34,19 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 # Outras informações
 
 ## Tutoriais
-* [Como usar o XnView para renomear arquivos de imagem em lote](https://arbolitoloco.github.io/sibbr_mzusp/xnview.html)
-* [Como fazer upload da planilha para o Specify](https://arbolitoloco.github.io/sibbr_mzusp/xnview/specify.html)
+* [Como usar o XnView para renomear arquivos de imagem em lote](https://arbolitoloco.github.io/sibbr_mzusp/xnview.html) - Faltando
+* [Como fazer upload da planilha para o Specify]() - Faltando
 
 ## Explicação para campos de planilha de cada coleção
 
 ## Arquivos modelo
 
 ### Planilhas
-* [Blattodea]()
+* [Blattodea]() - Faltando
 * [Coleoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/planilha_modelo_Coleoptera.xlsx)
-* [Coleoptera Imaturos]()
+* [Coleoptera Imaturos]() - Faltando
 * [Diptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/LRP_Specify_modelo_Diptera.xlsx)
-* [Mantodea]()
+* [Mantodea]() - Faltando
 * [Orthoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/KMK_Modelo_Orthoptera.xls)
 * [Trichoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/KMK_Modelo_Trichoptera.xls)
 
@@ -74,7 +74,8 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 <hr>
 
 # Dúvidas comuns
-
+- Em construção
+  - Em construção
 
 
 
