@@ -43,7 +43,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 
 ### Planilhas
 * [Blattodea]()
-* [Coleoptera]()
+* [Coleoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/planilha_modelo_Coleoptera.xlsx)
 * [Coleoptera Imaturos]()
 * [Diptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/LRP_Specify_modelo_Diptera.xlsx)
 * [Mantodea]()
@@ -51,13 +51,13 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 * [Trichoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/KMK_Modelo_Trichoptera.xls)
 
 ### Etiquetas
-* [Blattodea]()
-* [Coleoptera]()
-* [Coleoptera Imaturos]()
+* [Blattodea](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/modelo_etiquetas_geral.xls)
+* [Coleoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/modelo_etiquetas_geral.xls)
+* [Coleoptera Imaturos](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/modelo_etiqueta_Coleoptera_Imaturos.xls)
 * [Diptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/etiquetas_modelo_Diptera.doc)
-* [Mantodea]()
-* [Orthoptera]()
-* [Trichoptera]()
+* [Mantodea](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/modelo_etiquetas_geral.xls)
+* [Orthoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/modelo_etiquetas_geral.xls)
+* [Trichoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/modelo_etiquetas_geral.xls)
 <hr>
 
 # Catálogos e informações taxonômicas online
