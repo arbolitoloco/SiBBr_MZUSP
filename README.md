@@ -2,14 +2,15 @@
 O projeto Contribuição do Museu de Zoologia da USP à implementação do [SIBBR](http://www.sibbr.gov.br/) - Sistema de Informação sobre a Biodiversidade Brasileira, financiado pelo CNPq (processo 401899/2014-4) tem como objetivo digitalizar parte das coleções biológicas depositadas em uma das mais importantes instituições de pesquisa do mundo.
 
 ## A importância das coleções biológicas
-Os membros desse projeto têm a responsabilidade de capturar os dados biológicos que acompanham os exemplares do acervo das coleções entomológicas do MZUSP e armazená-los em um banco de dados. Os bolsistas devem inserir informações de qualidade no banco de dados, de forma a garantir a sua confiabilidade científica. Além disso, entre o material cadastrado, encontram-se inúmeros exemplares-tipo, que carregam consigo permanentemente nomes científicos. Por isso o tratamento desse material é feito de maneira extremamente cuidadosa.
+As coleções biológicas são assembleias ordenadas de espécimes devidamente preservados para estudos. Além do valor cultural e científico, o valor material propriamente dito disponível nessas coleções é imensurável. As coleções entomológicas abrigadas no Museu de Zoologia da Universidade de São Paulo representam um dos maiores acervos biológicos neotropicais do mundo, com mais de dois milhões de exemplares contabilizados.
+Os membros desse projeto têm a responsabilidade de capturar os dados biológicos que acompanham os exemplares do acervo das coleções entomológicas do MZUSP e armazená-los em um banco de dados. Os bolsistas devem inserir informações de qualidade no banco de dados, de forma a garantir a sua confiabilidade científica. Além disso, entre o material cadastrado, encontram-se inúmeros exemplares-tipo, que carregam consigo permanentemente nomes científicos. Por isso o tratamento desse material é feito de maneira extremamente cuidadosa e dedicada.
 <hr>
 
 # A interface do banco de dados
-O programa que gerencia os dados originados a partir da digitalização dos espécimes é o [Specify](http://specifyx.specifysoftware.org/welcome-to-specify-6-desktop-application/). Atualmente usamos a versão 6, que não deve ser atualizada até o fim do projeto. Portanto, se, ao fazer login no sistema, o Specify informar que há uma nova atualização, por favor ignore esse alerta e continue normalmente com o seu trabalho.
+O programa que gerencia os dados originados a partir da digitalização dos espécimes é o [Specify](http://specifyx.specifysoftware.org/welcome-to-specify-6-desktop-application/). *Atualmente usamos a versão 6, que não deve ser atualizada até o fim do projeto*. Portanto, se, ao fazer login no sistema, o Specify informar que há uma nova atualização, por favor ignore esse alerta e continue normalmente com o seu trabalho.
 
 ## Dúvidas sobre o Specify
-Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentation/) ou os [vídeos de ajuda](http://specifyx.specifysoftware.org/specify-project-helpcasts/) do Specify 6 para sanar a maioria das dúvidas encontradas na utilização do programa.
+Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentation/) ou os [vídeos de ajuda](http://specifyx.specifysoftware.org/specify-project-helpcasts/) do Specify 6 para sanar a maioria das dúvidas encontradas na utilização do programa. Dúvidas pontuais podem ser resolvidas na seção [Outras Informações](#) desse repositório.
 <hr>
 
 # Protocolo de digitalização dos espécimes
@@ -34,18 +35,20 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 ## Arquivos modelo
 
 ### Planilhas
+* [Blattodea]()
 * [Coleoptera]()
 * [Coleoptera Imaturos]()
 * [Diptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/LRP_Specify_modelo_Diptera.xlsx)
-* [Lepidoptera]()
+* [Mantodea]()
 * [Orthoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/KMK_Modelo_Orthoptera.xls)
 * [Trichoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/KMK_Modelo_Trichoptera.xls)
 
 ### Etiquetas
+* [Blattodea]()
 * [Coleoptera]()
 * [Coleoptera Imaturos]()
 * [Diptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/etiquetas_modelo_Diptera.doc)
-* [Lepidoptera]()
+* [Mantodea]()
 * [Orthoptera]()
 * [Trichoptera]()
 <hr>
