@@ -10,7 +10,7 @@ Os membros desse projeto têm a responsabilidade de capturar os dados biológico
 O programa que gerencia os dados originados a partir da digitalização dos espécimes é o [Specify](http://specifyx.specifysoftware.org/welcome-to-specify-6-desktop-application/). **Atualmente usamos a versão 6, que não deve ser atualizada até o fim do projeto**. Portanto, se, ao fazer login no sistema, o Specify informar que há uma nova atualização, por favor ignore esse alerta e continue normalmente com o seu trabalho.
 
 ## Dúvidas sobre o Specify
-Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentation/) ou os [vídeos de ajuda](http://specifyx.specifysoftware.org/specify-project-helpcasts/) do Specify 6 para sanar a maioria das dúvidas encontradas na utilização do programa. Dúvidas pontuais podem ser resolvidas na seção [Outras Informações](#) desse repositório.
+Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentation/) ou os [vídeos de ajuda](http://specifyx.specifysoftware.org/specify-project-helpcasts/) do Specify 6 para sanar a maioria das dúvidas encontradas na utilização do programa. Dúvidas pontuais podem ser resolvidas na seção [Outras Informações](#outras-informaes) desse repositório.
 <hr>
 
 # Protocolo de digitalização dos espécimes
@@ -34,8 +34,8 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 # Outras informações
 
 ## Tutoriais
-* [Como usar o XnView para renomear arquivos de imagem em lote]()
-* [Como fazer upload da planilha para o Specify]()
+* [Como usar o XnView para renomear arquivos de imagem em lote](\xnview.html)
+* [Como fazer upload da planilha para o Specify](\specify.html)
 
 ## Explicação para campos de planilha de cada coleção
 
