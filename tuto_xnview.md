@@ -1,3 +1,10 @@
+---
+layout: post
+title: Como usar o XnView para renomear arquivos de imagem em lote
+permalink: /xnview.html
+---
+
+
 # Como usar o XnView para renomear arquivos de imagem em lote
 
 O XnView é um software grátis, multi-plataforma, leve, que facilita a conversão e transformação de inúmeros arquivos de imagem de uma só vez.
