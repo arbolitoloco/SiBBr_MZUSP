@@ -8,8 +8,26 @@ theme: cayman
 
 # Como usar o XnView para renomear arquivos de imagem em lote
 
-O XnView é um software grátis, multi-plataforma, leve, que facilita a conversão e transformação de inúmeros arquivos de imagem de uma só vez.
+O XnView é um software grátis, multi-plataforma, leve, que facilita a conversão e transformação de inúmeros arquivos de imagem de uma só vez. Se o seu computador não tiver o XnView instalado, você pode baixá-lo em http://www.xnview.com/en/xnview/#downloads (escolha a versão XnView Standard, XnView Std.Setup).
 
-Para facilitar a organização das imagens dos exemplares, vamos usar o XnView para renomeá-las seguindo o padrão:
-XXXX_Genero_especie.jpg ,
-onde XXXX deve ser substituído pelo número de tombo correspondente.
+Ao final desse tutorial, para facilitar a organização das imagens dos exemplares, as suas imagens deverão ser renomeadas seguindo o padrão:
+XXXX_Genero_especie.jpg, onde XXXX deve ser substituído pelo número de tombo correspondente.
+
+## Tela Inicial do XnView
+![tela inicial xnview]()
+
+## Como renomear
+
+1. Selecionar os arquivos que serão renomeados;
+2. Clicar em Ferramentas (Tools) ->  "Renomear em lote" (Batch Rename);
+3. Preencher o formulário que aparecerá com as seguintes opções:
+   - [x] Nome do modelo
+   - ####
+   - Iniciar: número de tombo inicial
+   - Etapa: 1
+   - Clicar em "Renomear"
+4. Pronto! Agora você pode colocar o nome das espécies mais facilmente depois de cada número de tombo.
+
+![GIF]()
+
+   
