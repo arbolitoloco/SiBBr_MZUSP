@@ -83,6 +83,8 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 - Uma parte do exemplar quebrou ou já estava quebrada na caixa. Como conserto?
   - Anote na gaveta que há um exemplar quebrado e peça ajuda para mim. Vou encaminhar o exemplar para o técnico responsável para conserto, quando possível.
   
+- Preciso de mais etiquetas de número de tombo. O que faço?
+  - Se você não tiver alguém que faça as etiquetas da sua coleção, faça as etiquetas seguindo o [modelo adequado](https://arbolitoloco.github.io/sibbr_mzusp/#etiquetas). A impressão deve ser feita em papel cartão, disponível com os técnicos de cada coleção ou com a Ana Vasquez (para as coleções que não tem técnicos). 
 
   
 
