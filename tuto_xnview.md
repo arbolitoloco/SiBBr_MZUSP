@@ -17,6 +17,7 @@ XXXX_Genero_especie.jpg, onde XXXX deve ser substituído pelo número de tombo c
 
 ## Como renomear
 (Demonstração abaixo da explicação)
+
 1. Selecionar os arquivos que serão renomeados;
 2. Clicar em Ferramentas (Tools) ->  "Renomear em lote" (Batch Rename);
 3. Preencher o formulário que aparecerá com as seguintes opções:
@@ -30,6 +31,7 @@ XXXX_Genero_especie.jpg, onde XXXX deve ser substituído pelo número de tombo c
 
 ## Como adicionar os nomes das espécies após os números de tombo
 (Demonstração abaixo da explicação)
+
 1. Selecionar os arquivos que serão renomeados;
 2. Clicar em Ferramentas (Tools) ->  "Renomear em lote" (Batch Rename);
 3. Preencher o formulário que aparecerá com as seguintes opções:
