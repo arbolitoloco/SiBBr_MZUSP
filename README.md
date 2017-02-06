@@ -74,8 +74,18 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 <hr>
 
 # Dúvidas comuns
-- Em construção
-  - Em construção
+- Não consigo ler o que está escrito na etiqueta de coleta. O que faço?
+  - No campo apropriado de comentários (isso depende da sua tabela, geralmente é o campo de "remarks" da localidade ou do objeto), escreva algo como "etiqueta de coleta ilegível", deixando os campos de localidade vazios.
+ 
+- Não encontrei o nome científico nas fontes de dados às quais tenho acesso. E agora?
+  - Tente procurar pelo nome no banco [Zoological Record](http://apps-webofknowledge.ez67.periodicos.capes.gov.br/ZOOREC_GeneralSearch_input.do?product=ZOOREC&SID=3D26X5MiNyYakccO6ZM&search_mode=GeneralSearch). Veja se encontra alguma informação referente ao nome, à descrição original ou outro trabalho. Se mesmo assim não encontrar o nome, anote-o e peça ajuda para mim ou para o curador responsável pela coleção em que você está trabalhando.
+  
+- Uma parte do exemplar quebrou ou já estava quebrada na caixa. Como conserto?
+  - Separe o exemplar e peça ajuda para mim. Vou encaminhar o exemplar para o técnico responsável para conserto, quando possível.
+  
+
+  
+
 
 
 
