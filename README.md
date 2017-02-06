@@ -81,7 +81,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
   - Tente procurar pelo nome no banco [Zoological Record](http://apps-webofknowledge.ez67.periodicos.capes.gov.br/ZOOREC_GeneralSearch_input.do?product=ZOOREC&SID=3D26X5MiNyYakccO6ZM&search_mode=GeneralSearch). Veja se encontra alguma informação referente ao nome, à descrição original ou outro trabalho. Se mesmo assim não encontrar o nome, anote-o e peça ajuda para mim ou para o curador responsável pela coleção em que você está trabalhando.
   
 - Uma parte do exemplar quebrou ou já estava quebrada na caixa. Como conserto?
-  - Separe o exemplar e peça ajuda para mim. Vou encaminhar o exemplar para o técnico responsável para conserto, quando possível.
+  - Anote na gaveta que há um exemplar quebrado e peça ajuda para mim. Vou encaminhar o exemplar para o técnico responsável para conserto, quando possível.
   
 
   
