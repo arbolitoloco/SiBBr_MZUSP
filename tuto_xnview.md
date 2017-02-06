@@ -27,6 +27,7 @@ XXXX_Genero_especie.jpg, onde XXXX deve ser substituído pelo número de tombo c
    - Etapa: 1
    - Clicar em "Renomear"
 4. Pronto! Agora você pode colocar o nome das espécies mais facilmente depois de cada número de tombo.
+
 ![GIF](https://raw.githubusercontent.com/arbolitoloco/sibbr_mzusp/master/xnview1.gif)
 
 ## Como adicionar os nomes das espécies após os números de tombo
@@ -40,6 +41,7 @@ XXXX_Genero_especie.jpg, onde XXXX deve ser substituído pelo número de tombo c
    - Ignore os outros campos
    - Clicar em "Renomear"
 4. Pronto!
+
 ![GIF](https://raw.githubusercontent.com/arbolitoloco/sibbr_mzusp/master/xnview2.gif)
 
 
