@@ -79,12 +79,21 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
  
 - Não encontrei o nome científico nas fontes de dados às quais tenho acesso. E agora?
   - Tente procurar pelo nome no banco [Zoological Record](http://apps-webofknowledge.ez67.periodicos.capes.gov.br/ZOOREC_GeneralSearch_input.do?product=ZOOREC&SID=3D26X5MiNyYakccO6ZM&search_mode=GeneralSearch). Veja se encontra alguma informação referente ao nome, à descrição original ou outro trabalho. Se mesmo assim não encontrar o nome, anote-o e peça ajuda para mim ou para o curador responsável pela coleção em que você está trabalhando.
+   
+- Fiz uma pesquisa e não consegui descobrir onde fica a localidade citada na etiqueta de coleta? Como preencho a planilha?
+  - Deixe os campos que você não conseguiu identificar em branco. Preencha apenas os referentes à localidade menor que você tiver. Por exemplo, se a etiqueta diz apenas "Brasil, Fazenda Estrela", preencha apenas os campos de País e LocalityName.
+
+- Como preencho as datas de coleta na planilha?
+  - O padrão seguido pelo Specify para as datas (Start Date/End Date) é o seguinte: quando não há dias ou meses, substitui-se os números por 00 e mantêm-se o formato DD/MM/AAAA. Assim, se a data da etiqueta for VII.1973, na planilha a data será: 00/07/1973 (mesma data em Start e End Date). Se a data da etiqueta for apenas o ano, por exemplo 1901, na planilha a data será: 00/00/1901. 
   
 - Uma parte do exemplar quebrou ou já estava quebrada na caixa. Como conserto?
   - Anote na gaveta que há um exemplar quebrado e peça ajuda para mim. Vou encaminhar o exemplar para o técnico responsável para conserto, quando possível.
   
 - Preciso de mais etiquetas de número de tombo. O que faço?
-  - Se você não tiver alguém que faça as etiquetas da sua coleção, faça as etiquetas seguindo o [modelo adequado](https://arbolitoloco.github.io/sibbr_mzusp/#etiquetas). A impressão deve ser feita em papel cartão, disponível com os técnicos de cada coleção ou com a Ana Vasquez (para as coleções que não tem técnicos). 
+  - Se você não tiver alguém que faça as etiquetas da sua coleção, faça as etiquetas seguindo o [modelo adequado](https://arbolitoloco.github.io/sibbr_mzusp/#etiquetas). A impressão deve ser feita em papel cartão, disponível com os técnicos de cada coleção ou com a Ana Vasquez (para as coleções que não tem técnicos).
+ 
+- Como acesso o meu termo de concessão da bolsa?
+  - Entre na [Plataforma Chagas do CNPq](http://carloschagas.cnpq.br/), clique em "Outros Bolsistas" e faça login com o seu CPF e senha cadastrados (os dados são os mesmos utilizados na Plataforma Lattes). No menu à esquerda, clique em "Termo de Concessão" e depois clique no documento relacionado para visualizá-lo.
 
   
 
