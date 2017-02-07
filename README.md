@@ -80,7 +80,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 - Não encontrei o nome científico nas fontes de dados às quais tenho acesso. E agora?
   - Tente procurar pelo nome no banco [Zoological Record](http://apps-webofknowledge.ez67.periodicos.capes.gov.br/ZOOREC_GeneralSearch_input.do?product=ZOOREC&SID=3D26X5MiNyYakccO6ZM&search_mode=GeneralSearch). Veja se encontra alguma informação referente ao nome, à descrição original ou outro trabalho. Se mesmo assim não encontrar o nome, anote-o e peça ajuda para mim ou para o curador responsável pela coleção em que você está trabalhando.
    
-- Fiz uma pesquisa e não consegui descobrir onde fica a localidade citada na etiqueta de coleta? Como preencho a planilha?
+- Fiz uma pesquisa e não consegui descobrir onde fica a localidade citada na etiqueta de coleta. Como preencho a planilha?
   - Deixe os campos que você não conseguiu identificar em branco. Preencha apenas os referentes à localidade menor que você tiver. Por exemplo, se a etiqueta diz apenas "Brasil, Fazenda Estrela", preencha apenas os campos de País e LocalityName.
 
 - Como preencho as datas de coleta na planilha?
