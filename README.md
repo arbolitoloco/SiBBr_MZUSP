@@ -67,10 +67,26 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 * [Catálogo Taxonômico da Fauna do Brasil](http://fauna.jbrj.gov.br/fauna/listaBrasil/ConsultaPublicaUC/ConsultaPublicaUC.do)
 * [Nomenclator Zoologicus - Rod Page](http://iphylo.org/~rpage/nz/index.php)
 * [Zoological Record](http://apps-webofknowledge.ez67.periodicos.capes.gov.br/ZOOREC_GeneralSearch_input.do?product=ZOOREC&SID=3D26X5MiNyYakccO6ZM&search_mode=GeneralSearch) - Obs.: Só funciona dentro da USP
+* [Biodiversity Heritage Library](http://www.biodiversitylibrary.org/)
+* [Zoobank](http://zoobank.org/)
+* [Encyclopedia of Life](http://eol.org/)
+* [Catalogue of Life](http://www.catalogueoflife.org/)
+* [Google Scholar](https://scholar.google.com.br/)
+
+### Blattodea
+* [Blattodea Species File Online](http://cockroach.speciesfile.org/HomePage/Cockroach/HomePage.aspx)
 
 ### Diptera
 * [Diptera Nomenclator](http://www.diptera.org/NomenclatorSearch.php)
+
+### Mantodea
+* [Mantodea Species File Online](http://mantodea.speciesfile.org/HomePage/Mantodea/HomePage.aspx)
+
+### Orthoptera
 * [Orthoptera Species File Online](http://orthoptera.speciesfile.org/HomePage/Orthoptera/HomePage.aspx)
+
+### Trichoptera
+* [Trichoptera World Checklist](http://entweb.sites.clemson.edu/database/trichopt/)
 <hr>
 
 # Dúvidas comuns
