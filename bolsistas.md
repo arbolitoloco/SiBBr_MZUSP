@@ -10,7 +10,7 @@ permalink: /bolsistas.html
 
 Coleção | Nome  | Tombo inicial
 ------------ | ------------- | -------------
-Blattodea | Carolina Cuezzo | 827
+Blattaria | Carolina Cuezzo | 827
 Coleoptera | Débora Cristina de Oliveira Silva | 10001
 Coleoptera | Fábio Oliveira do Nascimento | 13001
 Coleoptera | Priscila Isabel Vicente | ?
