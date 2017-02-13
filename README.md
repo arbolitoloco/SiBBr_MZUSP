@@ -42,11 +42,11 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 ## Arquivos modelo
 
 ### Planilhas
-* [Blattodea]() - Faltando
+* [Blattaria](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/KMK_Modelo_Blattaria.xls.xls)
 * [Coleoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/planilha_modelo_Coleoptera.xlsx)
 * [Coleoptera Imaturos]() - Faltando
 * [Diptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/LRP_Specify_modelo_Diptera.xlsx)
-* [Mantodea]() - Faltando
+* [Mantodea](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/KMK_Modelo_Mantodea.xls.xls)
 * [Orthoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/KMK_Modelo_Orthoptera.xls)
 * [Trichoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/KMK_Modelo_Trichoptera.xls)
 
