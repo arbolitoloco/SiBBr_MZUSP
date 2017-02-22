@@ -39,7 +39,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 
 ## Explicação para campos de planilha de cada coleção
 * [Blattaria]() - Faltando
-* [Coleoptera](https://arbolitoloco.github.io/sibbr_mzusp/planilha-coleoptera.html)
+* [Coleoptera](https://arbolitoloco.github.io/sibbr_mzusp/planilha_coleoptera.html)
 * [Coleoptera Imaturos]() - Faltando
 * [Diptera]() - Faltando
 * [Mantodea]() - Faltando
