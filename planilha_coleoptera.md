@@ -2,7 +2,7 @@
 
 title: Campos da planilha de Coleoptera
 theme: cayman
-permalink: /planilha-coleoptera.html
+permalink: /planilha_coleoptera.html
 
 ---
 
