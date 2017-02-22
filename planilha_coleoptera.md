@@ -5,8 +5,9 @@ theme: cayman
 permalink: /planilha_coleoptera.html
 
 ---
+# Campos da planilha de Coleoptera
 
-# Métodos de coleta (Method)
+## Métodos de coleta (Method)
 
 Colocar No Specify | Equivalentes encontrados nas etiquetas
 ------------ | -------------
