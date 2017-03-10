@@ -11,9 +11,9 @@ permalink: /bolsistas.html
 Coleção | Nome  | Tombo inicial
 ------------ | ------------- | -------------
 Blattaria | Carolina Cuezzo | 827
-Coleoptera | Débora Cristina de Oliveira Silva | 10001
-Coleoptera | Fábio Oliveira do Nascimento | 13001
-Coleoptera | Priscila Isabel Vicente | ?
+Coleoptera | Débora Cristina de Oliveira Silva | 10001-13000
+Coleoptera | Fábio Oliveira do Nascimento | 13001-16000
+Coleoptera | Priscila Isabel Vicente | até 10000; 17000 a 20000
 Diptera | Isabel Mosch | ?
 Diptera | Helainy Trabuco | ?
 Lepidoptera | ? | ?
