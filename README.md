@@ -65,6 +65,10 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 * [Mantodea](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/modelo_etiquetas_geral.xls)
 * [Orthoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/modelo_etiquetas_geral.xls)
 * [Trichoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/modelo_etiquetas_geral.xls)
+
+### Relatórios
+* [Relatório parcial de atividades](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/SiBBr-relatorio-parcial.docx)
+* [Relatório final de atividades]() - Faltando
 <hr>
 
 # Catálogos e informações taxonômicas online
