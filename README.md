@@ -87,6 +87,9 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 ### Blattodea
 * [Blattodea Species File Online](http://cockroach.speciesfile.org/HomePage/Cockroach/HomePage.aspx)
 
+### Coleoptera
+* [World Catalogue of Noteridae](http://www2.emg.umu.se/projects/biginst/andersn/WCN/wcn_index.htm)
+
 ### Diptera
 * [Diptera Nomenclator](http://www.diptera.org/NomenclatorSearch.php)
 
