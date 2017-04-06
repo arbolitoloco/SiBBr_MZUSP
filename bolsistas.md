@@ -16,7 +16,8 @@ Coleoptera | Fábio Oliveira do Nascimento | 13001-16000
 Coleoptera | Priscila Isabel Vicente | até 10000; 17000 a 20000
 Diptera | Isabel Mosch | ?
 Diptera | Helainy Trabuco | ?
-Lepidoptera | ? | ?
+Isoptera | Diego Santos Polizello | ?
+Lepidoptera | Rafaela Lumi | ?
 Mantodea | Carolina Cuezzo | 1887
 Orthoptera | Fernanda Franco de Sousa | 5101
 Trichoptera | Vitor Prescinotto Russo | 1654
