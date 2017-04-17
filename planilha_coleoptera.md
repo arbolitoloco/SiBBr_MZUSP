@@ -27,3 +27,8 @@ Sweep net | Varredura, Puçá
 U.V light trap |
 Van Someren Rydon trap |
 Winklen trap | Winkler
+
+
+## Telas para mapeamento dos campos no Specify
+![Tela 1](/images/coleoptera_tela_map1.png)
+![Tela 2](/images/coleoptera_tela_map2.png)
