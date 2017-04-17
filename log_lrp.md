@@ -11,4 +11,4 @@ permalink: /log_lrp.html
 
 Semana | Atividade(s)
 ------------ | -------------
-17-20/04/2017 | 
+17-20/04/2017 | Atualizei infos do site; fiz manutenção de árvore taxonômica (Diptera - Chironomidae); upload (Diptera, 1098 registros)
