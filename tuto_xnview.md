@@ -13,7 +13,7 @@ Ao final desse tutorial, para facilitar a organização das imagens dos exemplar
 XXXX_Genero_especie.jpg, onde XXXX deve ser substituído pelo número de tombo correspondente.
 
 ## Tela Inicial do XnView
-![tela inicial xnview](https://raw.githubusercontent.com/arbolitoloco/sibbr_mzusp/master/xnview1.jpg)
+![tela inicial xnview](images/xnview1.jpg)
 
 ## Como renomear
 (Demonstração abaixo da explicação)
@@ -28,7 +28,7 @@ XXXX_Genero_especie.jpg, onde XXXX deve ser substituído pelo número de tombo c
    - Clicar em "Renomear"
 4. Pronto! Agora você pode colocar o nome das espécies mais facilmente depois de cada número de tombo.
 
-![GIF](https://raw.githubusercontent.com/arbolitoloco/sibbr_mzusp/master/xnview1.gif)
+![GIF](images/xnview1.gif)
 
 ## Como adicionar os nomes das espécies após os números de tombo
 (Demonstração abaixo da explicação)
@@ -42,7 +42,7 @@ XXXX_Genero_especie.jpg, onde XXXX deve ser substituído pelo número de tombo c
    - Clicar em "Renomear"
 4. Pronto!
 
-![GIF](https://raw.githubusercontent.com/arbolitoloco/sibbr_mzusp/master/xnview2.gif)
+![GIF](images/xnview2.gif)
 
 
    
