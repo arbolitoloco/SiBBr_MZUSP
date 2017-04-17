@@ -26,5 +26,6 @@ Trichoptera | Vitor Prescinotto Russo | 1654
 
 Coleção | Nome | Tombo
 ------------ | ------------- | -------------
-Coleoptera  | Bruno | 21000-22000
+Coleoptera  | Bruno Zilbermann | 21000-22000
+Coleoptera | Rafael Souza | 22001-23000
 

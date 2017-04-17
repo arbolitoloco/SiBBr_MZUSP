@@ -17,7 +17,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 1. Separar material a ser trabalhado.
 2. Preparar as etiquetas de número de tombo, que serão adicionadas ao exemplar digitalizado. Usar a [planilha modelo adequada](#planilhas) para fazer novas etiquetas. 
 3. Separar o exemplar a ser digitalizado e retirar as suas etiquetas. Posicionar as etiquetas juntamente à etiqueta de tombo que será associada ao exemplar. Fotografar todas as etiquetas do exemplar juntas. Vide exemplo: 
-![Etiquetas fotografadas](https://raw.githubusercontent.com/arbolitoloco/sibbr_mzusp/master/5170_Artemita_brasiliana_exemplo.jpg)
+![Etiquetas fotografadas](images/5170_Artemita_brasiliana_exemplo.jpg)
 4. Devolver as etiquetas ao exemplar de origem, na mesma ordem em que elas se encontram, que segue normalmente segue o padrão (de cima para baixo): 
    1. etiqueta de localidade, 
    2. etiquetas de outras coleções, 
