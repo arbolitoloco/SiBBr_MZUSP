@@ -38,7 +38,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 * [Como fazer upload da planilha para o Specify]() - Faltando
 
 ## Explicação para campos de planilha de cada coleção
-* [Blattaria](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/docs/manual_Blattodea_Cuezzo.ppt) - Faltando
+* [Blattaria](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/docs/manual_Blattodea_Cuezzo.ppt)
   * [Planilha de Blattaria preenchida](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/Cuezzo_modelo_planilha_Blattodea.xls)
 * [Coleoptera](https://arbolitoloco.github.io/sibbr_mzusp/planilha_coleoptera.html)
 * [Coleoptera Imaturos]() - Faltando
