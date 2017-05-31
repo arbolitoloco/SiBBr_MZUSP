@@ -38,7 +38,8 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 * [Como fazer upload da planilha para o Specify]() - Faltando
 
 ## Explicação para campos de planilha de cada coleção
-* [Blattaria]() - Faltando
+* [Blattaria]()
+ * [Planilha de Blattaria preenchida](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/Cuezzo_modelo_planilha_Blattodea.xls)
 * [Coleoptera](https://arbolitoloco.github.io/sibbr_mzusp/planilha_coleoptera.html)
 * [Coleoptera Imaturos]() - Faltando
 * [Diptera]() - Faltando
@@ -51,8 +52,9 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 ### Planilhas
 * [Blattaria](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/KMK_Modelo_Blattaria.xls.xls)
 * [Coleoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/planilha_modelo_Coleoptera.xlsx)
-* [Coleoptera Imaturos]() - Faltando
+* [Coleoptera Imaturos](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/modelo_planilha_Coleoptera_Imaturos.xls)
 * [Diptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/LRP_Specify_modelo_Diptera.xlsx)
+* [Hemiptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/planilha_modelo_Hemiptera.xls)
 * [Mantodea](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/KMK_Modelo_Mantodea.xls.xls)
 * [Orthoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/KMK_Modelo_Orthoptera.xls)
 * [Trichoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/KMK_Modelo_Trichoptera.xls)
