@@ -38,7 +38,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 * [Como fazer upload da planilha para o Specify]() - Faltando
 
 ## Explicação para campos de planilha de cada coleção
-* [Blattaria]() - Faltando
+* [Blattaria](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/docs/manual_Blattodea_Cuezzo.ppt) - Faltando
   * [Planilha de Blattaria preenchida](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/Cuezzo_modelo_planilha_Blattodea.xls)
 * [Coleoptera](https://arbolitoloco.github.io/sibbr_mzusp/planilha_coleoptera.html)
 * [Coleoptera Imaturos]() - Faltando
@@ -88,6 +88,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 
 ### Blattodea
 * [Blattodea Species File Online](http://cockroach.speciesfile.org/HomePage/Cockroach/HomePage.aspx)
+* [Catalogue of Blattaria from Brazil - Pellens & Grandcolas](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/docs/Catalogue of Blattaria (Insecta) from Brazil.pdf)
 
 ### Coleoptera
 * [World Catalogue of Noteridae](http://www2.emg.umu.se/projects/biginst/andersn/WCN/wcn_index.htm)
