@@ -88,7 +88,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 
 ### Blattodea
 * [Blattodea Species File Online](http://cockroach.speciesfile.org/HomePage/Cockroach/HomePage.aspx)
-* [Catalogue of Blattaria from Brazil - Pellens & Grandcolas](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/docs/Catalogue of Blattaria (Insecta) from Brazil.pdf)
+* [Catalogue of Blattaria from Brazil - Pellens & Grandcolas](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/docs/Catalogue_Blattaria_Brazil.pdf)
 
 ### Coleoptera
 * [World Catalogue of Noteridae](http://www2.emg.umu.se/projects/biginst/andersn/WCN/wcn_index.htm)
