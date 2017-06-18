@@ -69,7 +69,8 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 * [Trichoptera](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/modelo_etiquetas_geral.xls)
 
 ### Relatórios
-* [Relatório parcial de atividades](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/SiBBr-relatorio-parcial.docx)
+* [Formulário de acompanhamento de atividades](https://goo.gl/forms/kmE0x6JDZAxVNF0Y2) - Deve ser preenchido a cada quinzena ou mês
+* [Relatório parcial de atividades](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/SiBBr-relatorio-parcial.docx) - deve ser entregue a cada 3 meses
 * [Relatório final de atividades]() - Faltando
 <hr>
 
