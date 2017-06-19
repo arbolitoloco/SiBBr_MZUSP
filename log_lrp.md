@@ -24,3 +24,10 @@ Semana | Atividade(s)
 22-26/05/2017 | Busca de infos taxonômicas Coleoptera; digitalizei Diptera (Stratiomyidae); definição do banco de dados de Hemiptera
 
 29/05-02/06/2017 | Busca de infos taxonômicas Coleoptera; digitalizei Diptera (Stratiomyidae); atualizei infos do site.
+
+05/06 a 09/06 | Busca de infos taxonômicas Coleoptera; digitalizei Diptera (Stratiomyidae); atualizei infos do site.
+
+12/06 a 14/06 | Busca de infos taxonômicas Coleoptera e Diptera; digitalizei Diptera (Stratiomyidae).
+
+19/06 a 23/06 | Digitalizei Diptera (Stratiomyidae); comecei a digitalizar Coleoptera (Chrysomelidae); criei formulário para acompanhamento dos bolsistas.
+
