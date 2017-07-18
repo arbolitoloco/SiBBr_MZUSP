@@ -13,7 +13,7 @@ Coleção | Nome  | Tombo inicial
 Blattaria | Carolina Cuezzo | 827
 Coleoptera | Débora Cristina de Oliveira Silva | 10001-13000; 27001-30000
 Coleoptera | Fábio Oliveira do Nascimento | 13001-16000 (passar até 16999)
-Coleoptera | Priscila Isabel Vicente | até 10000; 17000 a 20000-20999; 23001 a 25000
+Coleoptera | Priscila Isabel Vicente | até 10000; 17000 a 20000-20999; 23001 a 25000; 30001 a 33000
 Coleoptera | Laura Rocha Prado | 25001-27000
 Diptera | Isabel Mosch | ?
 Diptera | Helainy Trabuco | ?
