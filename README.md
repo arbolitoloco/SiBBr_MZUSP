@@ -95,6 +95,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 
 ### Coleoptera
 * [World Catalogue of Noteridae](http://www2.emg.umu.se/projects/biginst/andersn/WCN/wcn_index.htm)
+* [Cerambycidae of The World](http://cerambycidae.org/)
 
 ### Diptera
 * [Diptera Nomenclator](http://www.diptera.org/NomenclatorSearch.php)
