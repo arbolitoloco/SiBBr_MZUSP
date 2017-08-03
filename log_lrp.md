@@ -25,19 +25,23 @@ Semana | Atividade(s)
 
 29/05-02/06/2017 | Busca de infos taxonômicas Coleoptera; digitalizei Diptera (Stratiomyidae); atualizei infos do site.
 
-05/06-09/06/2017 | Busca de infos taxonômicas Coleoptera; digitalizei Diptera (Stratiomyidae); atualizei infos do site.
+05-09/06/2017 | Busca de infos taxonômicas Coleoptera; digitalizei Diptera (Stratiomyidae); atualizei infos do site.
 
-12/06-14/06/2017 | Busca de infos taxonômicas Coleoptera e Diptera; digitalizei Diptera (Stratiomyidae).
+12-14/06/2017 | Busca de infos taxonômicas Coleoptera e Diptera; digitalizei Diptera (Stratiomyidae).
 
-19/06-23/06/2017 | Digitalizei Diptera (Stratiomyidae); comecei a digitalizar Coleoptera (Chrysomelidae); criei formulário para acompanhamento dos bolsistas.
+19-23/06/2017 | Digitalizei Diptera (Stratiomyidae); comecei a digitalizar Coleoptera (Chrysomelidae); criei formulário para acompanhamento dos bolsistas.
 
-26/06-30/06/2017 | Digitalizei Diptera (Stratiomyidae);
+26-30/06/2017 | Digitalizei Diptera (Stratiomyidae);
 
 31/06-04/07/2017 | Digitalizei Diptera (Stratiomyidae) e Coleoptera (Chrysomelidae);
 
-03/07-07/07/2017 | Digitalizei Diptera (Stratiomyidae) e Coleoptera (Chrysomelidae);
+03-07/07/2017 | Digitalizei Diptera (Stratiomyidae) e Coleoptera (Chrysomelidae);
 
-10/07-14/07/2017 | Digitalizei Coleoptera (Chrysomelidae);
+10-14/07/2017 | Digitalizei Coleoptera (Chrysomelidae);
 
-17/07-21/07/2017 | Atualizei acompanhamento dos bolsistas; digitalizei Coleoptera (Chrysomelidae);
+17-21/07/2017 | Digitalizei Diptera (Stratiomyidae) e Coleoptera (Chrysomelidae);
+
+24-28/07/2017 | Digitalizei Diptera (Stratiomyidae) e Coleoptera (Chrysomelidae);
+
+31/07-04/08/2017 | Atualizei acompanhamento dos bolsistas; digitalizei Coleoptera (Chrysomelidae); treinei Vinícius Praça (novo bolsista de Coleoptera - Cerambycidae); corrigi árvore taxonômica de Coleoptera (Cerambycidae); corrigi árvore geográfica de Diptera
 
