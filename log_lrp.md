@@ -45,3 +45,6 @@ Semana | Atividade(s)
 
 31/07-04/08/2017 | Atualizei acompanhamento dos bolsistas; digitalizei Coleoptera (Chrysomelidae); treinei Vinícius Praça (novo bolsista de Coleoptera - Cerambycidae); corrigi árvore taxonômica de Coleoptera (Cerambycidae); corrigi árvore geográfica de Diptera
 
+07-11/08/2017 | Digitalizei Diptera (Stratiomyidae); preparei seminário de refinamento de dados
+
+14-18/08/2017 | Digitalizei Diptera (Stratiomyidae); preparei seminário de refinamento de dados
