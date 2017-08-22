@@ -32,6 +32,7 @@ Coleção | Nome | Tombo
 Coleoptera  | Bruno Zilbermann | 21000-22000
 Coleoptera | Rafael Souza | 22001-23000
 Coleoptera | Camila dos Anjos | 25581-26160
+Coleoptera Imaturos | Fabiano Albertoni | 10346-10351
 
 # Últimos tombos Coleoptera
 35000 (Vinícius)

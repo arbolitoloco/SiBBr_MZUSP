@@ -36,10 +36,12 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 ## Tutoriais
 * [Como usar o XnView para renomear arquivos de imagem em lote](https://arbolitoloco.github.io/sibbr_mzusp/xnview.html)
 * [Como fazer upload da planilha para o Specify]() - Faltando
+* [Slides da palestra de refinamento de dados (Excel e Open Refine)](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/docs/lecture-refinamento-de-dados.pdf)
+* [Texto complementar da palestra de refinamento de dados (Excel e Open Refine)](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/docs/lecture-notes-refinamento.pdf)
 
 ## Explicação para campos de planilha de cada coleção
 * [Blattaria](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/docs/manual_Blattodea_Cuezzo.ppt)
-  * [Planilha de Blattaria preenchida](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/Cuezzo_modelo_planilha_Blattodea.xls)
+* [Planilha de Blattaria preenchida](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/Cuezzo_modelo_planilha_Blattodea.xls)
 * [Coleoptera](https://arbolitoloco.github.io/sibbr_mzusp/planilha_coleoptera.html)
 * [Coleoptera Imaturos]() - Faltando
 * [Diptera]() - Faltando
