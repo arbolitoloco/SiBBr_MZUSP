@@ -73,7 +73,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 ### Relatórios
 * [Formulário de acompanhamento de atividades](https://goo.gl/forms/kmE0x6JDZAxVNF0Y2) - Deve ser preenchido a cada quinzena ou mês
 * [Relatório parcial de atividades](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/SiBBr-relatorio-parcial.docx) - deve ser entregue a cada 3 meses
-* [Relatório final de atividades]() - Faltando
+* [Relatório final de atividades]()(https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/SiBBr-relatorio-final.docx) - deve ser entregue ao término da bolsa
 <hr>
 
 # Catálogos e informações taxonômicas online
