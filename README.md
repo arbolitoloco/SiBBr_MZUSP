@@ -76,7 +76,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 * [Relatório final de atividades]()(https://github.com/arbolitoloco/sibbr_mzusp/raw/master/modelos/SiBBr-relatorio-final.docx) - deve ser entregue ao término da bolsa
 <hr>
 
-# Catálogos e informações taxonômicas online
+# Catálogos e informações taxonômicas e geográficas online
 
 ### Gerais
 * [ITIS - Integrated Taxonomic Information System](http://www.itis.gov/)
@@ -90,6 +90,7 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 * [Encyclopedia of Life](http://eol.org/)
 * [Catalogue of Life](http://www.catalogueoflife.org/)
 * [Google Scholar](https://scholar.google.com.br/)
+* [GeoNames - Para nomes de localidades](http://www.geonames.org/)
 
 ### Blattodea
 * [Blattodea Species File Online](http://cockroach.speciesfile.org/HomePage/Cockroach/HomePage.aspx)
