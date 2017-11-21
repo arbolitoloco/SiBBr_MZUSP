@@ -76,6 +76,7 @@ Syntype | síntipo
 Lectotype | lectótipo
 Paralectotype | paralectótipo
 Neotype | neótipo
+Incipient Type | tipo incipiente (quando ainda não foi publicado ou não se tem certeza da validade)
 
 Se o exemplar não for um tipo, o campo deve ficar vazio.
 
