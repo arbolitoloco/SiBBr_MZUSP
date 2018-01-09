@@ -20,11 +20,11 @@ Blacklight trap | Luz negra
 Flight interception trap | Interceptação de vôo
 Hand picking | Coleta manual
 Head lamp |
-Light trap | Isca luminosa
+Light trap | Isca luminosa (lençol)
 Malaise trap | 
 Pitfall trap |
 Sweep net | Varredura, Puçá
-U.V light trap |
+U.V. light trap |
 Van Someren Rydon trap |
 Winklen trap | Winkler
 
