@@ -79,26 +79,35 @@ Por favor leia a [documentação](http://specifyx.specifysoftware.org/documentat
 # Catálogos e informações taxonômicas e geográficas online
 
 ### Gerais
-* [ITIS - Integrated Taxonomic Information System](http://www.itis.gov/)
-* [Catálogo Taxonômico da Fauna do Brasil](http://fauna.jbrj.gov.br/fauna/listaBrasil/ConsultaPublicaUC/ConsultaPublicaUC.do)
-* [Nomenclator Zoologicus - Neave - Gêneros e subgêneros](http://ubio.org/NomenclatorZoologicus/)
-* [Ubio](http://ubio.org/)
-* [Nomenclator Zoologicus - Rod Page](http://iphylo.org/~rpage/nz/index.php)
-* [Zoological Record](http://apps-webofknowledge.ez67.periodicos.capes.gov.br/ZOOREC_GeneralSearch_input.do?product=ZOOREC&SID=3D26X5MiNyYakccO6ZM&search_mode=GeneralSearch) - Obs.: Só funciona dentro da USP
 * [Biodiversity Heritage Library](http://www.biodiversitylibrary.org/)
-* [Zoobank](http://zoobank.org/)
-* [Encyclopedia of Life](http://eol.org/)
+
+* [Catálogo Taxonômico da Fauna do Brasil](http://fauna.jbrj.gov.br/fauna/listaBrasil/ConsultaPublicaUC/ConsultaPublicaUC.do)
 * [Catalogue of Life](http://www.catalogueoflife.org/)
-* [Google Scholar](https://scholar.google.com.br/)
+
+* [Encyclopedia of Life](http://eol.org/)
+
 * [GeoNames - Para nomes de localidades](http://www.geonames.org/)
+* [Google Scholar](https://scholar.google.com.br/)
+
+* [ITIS - Integrated Taxonomic Information System](http://www.itis.gov/)
+
+* [Nomenclator Zoologicus - Neave - Gêneros e subgêneros](http://ubio.org/NomenclatorZoologicus/)
+* [Nomenclator Zoologicus - Rod Page](http://iphylo.org/~rpage/nz/index.php)
+
+* [Ubio](http://ubio.org/)
+
+* [Zoobank](http://zoobank.org/)
+* [Zoological Record](http://apps-webofknowledge.ez67.periodicos.capes.gov.br/ZOOREC_GeneralSearch_input.do?product=ZOOREC&SID=3D26X5MiNyYakccO6ZM&search_mode=GeneralSearch) - Obs.: Só funciona dentro da USP
 
 ### Blattodea
 * [Blattodea Species File Online](http://cockroach.speciesfile.org/HomePage/Cockroach/HomePage.aspx)
+
 * [Catalogue of Blattaria from Brazil - Pellens & Grandcolas](https://github.com/arbolitoloco/sibbr_mzusp/raw/master/docs/Catalogue_Blattaria_Brazil.pdf)
 
 ### Coleoptera
-* [World Catalogue of Noteridae](http://www2.emg.umu.se/projects/biginst/andersn/WCN/wcn_index.htm)
 * [Cerambycidae of The World](http://cerambycidae.org/)
+
+* [World Catalogue of Noteridae](http://www2.emg.umu.se/projects/biginst/andersn/WCN/wcn_index.htm)
 
 ### Diptera
 * [Diptera Nomenclator](http://www.diptera.org/NomenclatorSearch.php)
