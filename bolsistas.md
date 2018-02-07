@@ -16,7 +16,7 @@ Coleoptera | Fábio Oliveira do Nascimento | 13001-16483
 Coleoptera | Vinícius Praça | 16484-16999; 33001-35000
 Coleoptera | Priscila Isabel Vicente | até 10000; 17000-20999; 23001-25000; 30001-30697
 Coleoptera | Laura Rocha Prado | 25001-27000 (25581-26160 - Camila dos Anjos - Alticini)
-Coleoptera | Thiago Polizei | 35001-36000 (Elmidae)
+Coleoptera | Thiago Polizei | 35001-36610 (Elmidae)/ 36611-39000 (Dryopidae e outros)
 Diptera | Isabel Mosch | -
 Diptera | Helainy Trabuco | -
 Hemiptera | Vitor Prescinotto Russo | 1
@@ -38,4 +38,4 @@ Coleoptera Imaturos | Fabiano Albertoni | 10346-10351
 
 # Últimos tombos Coleoptera
 35000 (Vinícius Praça)
-36000 (Thiago Polizei) - Confirmar!
+39000 (Thiago Polizei)
