@@ -11,6 +11,9 @@ permalink: /planilha_diptera.html
 Abaixo estão listadas as explicações necessárias para cada campo na planilha, por ordem de aparecimento.
 Para os campos fixos, descritos nas tabelas, use sempre o que aparece na primeira coluna, contendo o nome do campo. A coluna de Descrição lista dados equivalentes que podem aparecer nas etiquetas.
 
+<!-- Screenshot campo final Specify -->
+
+
 ## Cataloger
 Nome do agente catalogador, a pessoa que incluiu os dados na planilha, no seguinte formato: Sobrenome, Iniciais.
 Exemplo: Laura Rocha Prado -> Prado, L. R.
@@ -37,18 +40,19 @@ Tribe | Não
 Genus | Sim
 Subgenus | Não
 Species | Sim
+Species Author | Sim
 Subspecies | Não
 Subspecies Author | Não
-Species Author | Sim
 
 ## Determiner
 Especialista que identificou o exemplar. Normalmente consta da etiqueta de identificação, quando presente. Entra na forma como estiver escrita.
 
 ## Determination Date
-Data de identificação do exemplar que consta da etiqueta de identificação, se houver.
+Data de identificação do exemplar que consta da etiqueta de identificação, se houver. Entra no padrão DD/MM/AAAA.
 
 ## Stage of Development
 Normalmente será adulto (adult). Se você estiver lidando com imaturos, favor contatar seu supervisor/curador.
+
 
 ## Sex
 Como a coleção de Diptera utiliza lotes com mais de um indivíduo, pode ser que ocorram indivíduos de sexos diferentes no mesmo lote. Assim, as opções desse campo são:
@@ -65,7 +69,7 @@ Indique a quantidade de indivíduos de fêmeas, machos, indeterminados, larvas, 
 O campo Count1, mais adiante, tem uma fórmula que faz a contagem total desses campos. Se você perceber que o campo Count1 não está sendo atualizado, adicione uma fórmula de soma dos campos adequados. Se precisar de ajuda contate seu supervisor.
 
 ## Type Status
-Apenas as seguintes cateogorias de tipos devem ser inseridas na planilha:
+Apenas as seguintes cateogorias de tipos devem ser inseridas na planilha (em inglês):
 
 Type Status | Descrição
 ------------ | ------------
@@ -111,6 +115,9 @@ Deve conter informação sobre coleção original de origem do material, quando 
 ## Donor
 Deve conter informação sobre doadores do material, no caso de constar das etiquetas do indivíduo. Normalmente trata-se de um nome de uma pessoa (Ex-Coll. John Lane, por exemplo).
 
+## Expedition
+Contém informação sobre expedição de coleta. Exemplos comuns são "BIOTA-FAPESP" e "Exp. Dep. MZUSP".
+
 ## Verbatim Date
 Deve conter a data de coleta no seguinte formato:
 DD.MM.AAAA, onde o mês é dado em algarismos romanos.
@@ -137,11 +144,11 @@ A tabela a seguir indica quais dados devem estar preenchidos:
 
 Categoria | Obrigatório
 ------------ | ------------
-Continente | Sim
-País | Não
-Estado | Não
-Cidade | Não
-LocalityName | Sim
+Continente | Sim (em português)
+País | Não (em português)
+Estado | Não (no idioma que consta na etiqueta)
+Cidade | Não (no idioma que consta na etiqueta)
+LocalityName | Sim (no idioma que consta na etiqueta)
 
 No caso da etiqueta não conter informação sobre localidade de coleta, ou dessa localidade não ser verificável, o campo do continente deve conter a opção "Sem Localidade".
 
@@ -154,7 +161,10 @@ Esse campo deve conter informações que não estão relacionadas a nomes de loc
 Dados de altitude (em metros). Não é necessário colocar a unidade métrica, apenas os números.
 
 ## Latitude e Longitude
-Dados geográficos, quando houver, no padrão disponível (o banco de dados normalmente aceita todos).
+Dados geográficos, quando houver, no padrão disponível (o banco de dados normalmente aceita todos). 
+Ao utilizar o padrão GSM (Graus, Minutos, Segundos), tenha certeza de que os caracteres especiais usados são os corretos. Isso pode ser um problema na importação de dados para o Specify. 
+O caractere de grau (° - atalho no Windows de teclado Português Brasilieiro Alt + 0176, padrão unicode U+00B0: Grau), por exemplo, não deve ser confundido com o caractere ordinal masculino (º - atalho no Windows de teclado Português Brasilieiro Alt + 0186, padrão unicode U+00BA: Ordinal Masculino). 
+A mesma atenção deve ser dada aos caracteres para minutos (', padrão unicode U+0027: Apóstrofo) e segundos ('', dois apóstrofos), que não devem ser confundidos com aspas.
 
 ## Collectors
 Coletores informados na etiqueta, como estiverem citados, mas normalmente no padrão Primeiro nome e sobrenome.
